@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Page title="Hello world!">
+    <Title>BIFE is working!</Title>
+    <H3>Translate Fallback is working too!</H3>
+    <P>This is a very bad use for BIFE, because I'm writing HTML :-P</P>
+    <Title>A little of 'real' use</Title>
+    <P>Here's a <Link url="link.xbf">link</Link> to another BIFE file</P>
+    <Title>Links to subdirectories</Title>
+    <P>Here's a <Link url="dir/">file in a directory</Link>.</P>
+    <P>And a <Link url="dir/subdir/">file in a subdirectory</Link>.</P>
+    <P>Finally a <Link url="otherdir/">file in a another directory</Link>.</P>
+    <HR noshade="noshade" size="2"/>
+    <Link data-s="1" data-b="1">View BIFE (xbf) source</Link> |
+    <Link data-s="1">View PHP source</Link>
+</Page>
